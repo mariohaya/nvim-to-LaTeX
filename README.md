@@ -1,5 +1,7 @@
 # nvim-to-LaTeX
-Compile a file to LaTeX with pdf-latex in NeoVim.
+Compiling a file into a pdf with LaTeX is very easy.
+
+You can do this with NeoVim but also probably any other text editor.
 
 Simply add it to NeoVim's init.lua and bind it to a key. (default is **\ + p**)
 
